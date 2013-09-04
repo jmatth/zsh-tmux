@@ -1,0 +1,9 @@
+This is a fork of the tmux plugin from the
+[oh-my-zsh framework](http://github.com/robbyrussell/oh-my-zsh),
+mirrored here for easier use with plugins such as
+[antigen](http://github.com/zsh-users/antigen)
+and
+[zilsh](https://github.com/zilsh/zilsh).
+
+If you suspect that this mirror is out of date, please open an issue and I will
+merge any changes from the upstream repository.
